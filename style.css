@@ -262,17 +262,3 @@ footer span{
     margin-top: 20px;
     color: white;
 }
-.Lorem{
-    width: 300px;
-    height: 300px;
-    background-color: #E55473;
-    margin-top: 50px;
-    text-align: center;
-    justify-content: center;
-    margin-left: 30%;
-    border-radius: 300px 300px 0px 0px;
-    background-image: url(./assets/pngwing\ 6.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
