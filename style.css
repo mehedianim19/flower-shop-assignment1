@@ -49,7 +49,7 @@ nav a{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: #cca7ae;
+    background-color: #fae8ec;
     
 }
 .banner-img{
@@ -162,7 +162,7 @@ nav a{
 .service-time{
         width: 936px;
         height: 200px;
-        background-color: #e0dcdd;
+        background-color: #d0c5c5;
         border:none;
         margin: auto;
         display: flex;
